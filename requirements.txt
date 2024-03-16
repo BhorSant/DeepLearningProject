@@ -1,0 +1,9 @@
+pandas 
+seaborn
+bentoml
+torchvision
+joblib
+tqdm
+pip-chill
+wincertstore
+-e .
